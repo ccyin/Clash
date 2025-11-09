@@ -1,9 +1,13 @@
 # 硅谷云emby
-# 2025-9-7
+# 2025-11-9
+
 
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
+
+DOMAIN-SUFFIX,cflocal.xxlb.net
+DOMAIN-SUFFIX,poly.emby.moe
 DOMAIN-SUFFIX,yunti.online
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,285286.xyz
