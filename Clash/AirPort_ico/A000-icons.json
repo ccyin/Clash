@@ -1,0 +1,27 @@
+{"name":"AirPort Icons",
+"description":"By c",
+"icons":[
+    {"name":"A001-HongXing", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A001-HongXing.png"},
+
+    {"name":"A002-POLY", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A002-POLY.jpg"},
+
+    {"name":"A003-WJY", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A003-WJY.jpg"},
+
+    {"name":"A004-BestVPN", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A004-BestVPN.jpg"},
+
+    {"name":"A005-Maoer2", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A005-Maoer2.jpg"},
+
+    {"name":"A006-YouSuT", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A006-YouSuT.png"},
+
+    {"name":"A007-DinJi", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A007-DinJi.jpg"},
+
+    {"name":"A008-Liuliangguang", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A008-Liuliangguang.jpg"},
+
+    {"name":"A009-peiqian", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A009-peiqian.jpg"},
+
+    {"name":"A010-chaoshihui", "url":"https://raw.githubusercontent.com/ccyin/Clash/refs/heads/main/Clash/AirPort_ico/A010-chaoshihui.jpg"}
+
+        ]
+
+
+}
