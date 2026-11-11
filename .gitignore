@@ -1,0 +1,4 @@
+# local private files, never publish
+configs/local/
+*.local.yaml
+*.sub.yaml

@@ -1,0 +1,206 @@
+# Emby 分流规则（mihomo / OpenClash）
+# 收录公开可访问的 Emby / Jellyfin 服务域名
+# 更新时间：2026-10-07
+
+# ===== 重点服务器 =====
+
+# Terminus+（终点站+）
+DOMAIN-SUFFIX,zdz.best
+DOMAIN-SUFFIX,emby.wtf
+
+# 蘑菇 Emby
+DOMAIN-SUFFIX,mooguu.net
+
+# Omega Emby / AlphaTV（同域）
+DOMAIN-SUFFIX,alphatvapp.top
+
+# 螃蟹 Emby
+DOMAIN-SUFFIX,qtecrab.com
+
+# ===== 常用服务器 =====
+
+# 乐蛙
+DOMAIN-SUFFIX,taotu.ink
+
+# OKEMBY
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,okemby.vip
+
+# 非越媒体库
+DOMAIN-SUFFIX,sfcj.org
+
+# LOSER
+DOMAIN-SUFFIX,loseremby.org
+
+# Porn Emby
+DOMAIN-SUFFIX,pornemby.club
+
+# Magpie
+DOMAIN-SUFFIX,magpie.cyou
+
+# 2026456.xyz
+DOMAIN-SUFFIX,2026456.xyz
+
+# ===== 公网 Emby 服 =====
+
+# 卷毛鼠
+DOMAIN-SUFFIX,jmsooo.com
+
+# Odyssey
+DOMAIN-SUFFIX,odysseyplus.site
+
+# 熊猫
+DOMAIN-SUFFIX,embyclub.com
+
+# 卡戎
+DOMAIN-SUFFIX,charontv.com
+
+# emby-Plus
+DOMAIN-SUFFIX,xeton.dev
+
+# emby-Otaku
+DOMAIN-SUFFIX,otakudrive.life
+
+# aca
+DOMAIN-SUFFIX,aca.best
+
+# Cc
+DOMAIN-SUFFIX,ccemby.tk
+
+# SoCloud
+DOMAIN-SUFFIX,emby.run
+
+# WaveCloud
+DOMAIN-SUFFIX,embyserver.ga
+
+# llon plex
+DOMAIN,plex.llon.net
+DOMAIN-SUFFIX,plex.direct
+
+# emby-nexitally
+DOMAIN,emby.nexitally.com
+
+# emby-paoche
+DOMAIN,emby.cjpc.cc
+DOMAIN-SUFFIX,emby.cjpc.tv
+DOMAIN-SUFFIX,emby.cjpc.xyz
+
+# emby-flowercloud
+DOMAIN,emby.flowercloud.yt
+
+# emby-maying
+DOMAIN,emby.maying.club
+
+# emby-mdss
+DOMAIN,emby.mdss.cloud
+
+# emby-ytoo
+DOMAIN,emby.ytoo.li
+
+# emby-prpr
+DOMAIN,emby.prprcloud.com
+
+# emby-nyancat
+DOMAIN,emby.nyancat.net
+
+# IMM
+DOMAIN,emby.immtel.com
+
+# Exflux
+DOMAIN,line.emby.men
+
+# 大白
+DOMAIN,emby.p-p.men
+
+# aiyowei
+DOMAIN,emby.aiyowei.ml
+
+# 硅谷云
+DOMAIN,emby.enjoyit.eu.org
+DOMAIN,emby.lcloud.wiki
+DOMAIN,notnetflix.cos.cat
+DOMAIN-SUFFIX,yunti.online
+DOMAIN-SUFFIX,xxlb.net
+DOMAIN-SUFFIX,poly.emby.moe
+
+# polo
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
+
+# MisakaF
+DOMAIN-SUFFIX,misakaf.org
+
+# GfwEmby
+DOMAIN-SUFFIX,gfwemby.org
+
+# Nebula
+DOMAIN-SUFFIX,nebula-emby.com
+
+# 狂热云
+DOMAIN-SUFFIX,feverss.cloud
+
+# 普拉斯影业
+DOMAIN-SUFFIX,plusmedia.site
+
+# ntRRR
+DOMAIN-SUFFIX,stream.synn.cc
+DOMAIN-SUFFIX,stream.ntrrr.top
+
+# Singularity
+DOMAIN-SUFFIX,singularity.deja-vu.beauty
+
+# 品云
+DOMAIN-SUFFIX,embyplus.club
+
+# Netcup
+DOMAIN-SUFFIX,404.sb
+
+# 佛系
+DOMAIN-SUFFIX,4545.cf
+
+# 蓝海
+DOMAIN-SUFFIX,blueseacdn.com
+
+# 剧狗
+DOMAIN-SUFFIX,ju.dog
+
+# 1111
+DOMAIN-SUFFIX,emby.ml
+
+# texon
+DOMAIN-SUFFIX,texon.fans
+
+# TreeDiagram
+DOMAIN-SUFFIX,123456.al
+
+# EMBY 餐厅
+DOMAIN-SUFFIX,mius.uk
+
+# ===== 其他公网规则 =====
+
+DOMAIN-SUFFIX,nvidia.rip
+DOMAIN-SUFFIX,uhdnow.com
+DOMAIN-SUFFIX,hongxingyunmovie.vip
+DOMAIN-SUFFIX,media-1.co.uk
+DOMAIN-SUFFIX,sptv.ii00.cc
+DOMAIN-SUFFIX,sgtv.ii00.cc
+DOMAIN-SUFFIX,cn-music.mefun.vip
+DOMAIN-SUFFIX,69yun69.com
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,cristiamo.xyz
+DOMAIN-SUFFIX,emby.cristiamo.top
+DOMAIN-SUFFIX,emby.mcwy.me
+DOMAIN-SUFFIX,emby.neko.edu.rs
+DOMAIN-SUFFIX,emby.ok.edu.hk
+DOMAIN-SUFFIX,emby.paoche.ooo
+DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,jellyfin.asia
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,pilipiliultra.top
+DOMAIN-SUFFIX,xmsl.org

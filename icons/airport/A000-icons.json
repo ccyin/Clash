@@ -1,0 +1,70 @@
+{
+  "name": "AirPort Icons",
+  "description": "Clash / Mihomo airport icon set, ordered by A-number",
+  "icons": [
+    {
+      "name": "A001-HongXing",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A001-HongXing.png"
+    },
+    {
+      "name": "A002-POLY",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A002-POLY.png"
+    },
+    {
+      "name": "A003-WJY",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A003-WJY.png"
+    },
+    {
+      "name": "A004-BestVPN",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A004-BestVPN.jpg"
+    },
+    {
+      "name": "A005-MaoEr2",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A005-MaoEr2.jpg"
+    },
+    {
+      "name": "A006-YouSuT",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A006-YouSuT.png"
+    },
+    {
+      "name": "A007-DingJi",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A007-DingJi.jpg"
+    },
+    {
+      "name": "A008-LiuLiangGuang",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A008-LiuLiangGuang.jpg"
+    },
+    {
+      "name": "A009-PeiQian",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A009-PeiQian.png"
+    },
+    {
+      "name": "A010-ChaoShiHui",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A010-ChaoShiHui.jpg"
+    },
+    {
+      "name": "A011-LiangXinYun",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A011-LiangXinYun.jpg"
+    },
+    {
+      "name": "A012-iKuuu",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A012-iKuuu.jpg"
+    },
+    {
+      "name": "A013-ShanHai",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A013-ShanHai.jpg"
+    },
+    {
+      "name": "A014-PoXiao",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A014-PoXiao.png"
+    },
+    {
+      "name": "A015-JiJi",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A015-JiJi.jpg"
+    },
+    {
+      "name": "A016-CuiXue",
+      "url": "https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A016-CuiXue.jpg"
+    }
+  ]
+}
