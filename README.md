@@ -10,6 +10,7 @@
 | `icons/airport/` | 机场图标（A 序号连续排列）及图标订阅清单 `A000-icons.json` |
 | `icons/app/` | 应用 / 面板图标 |
 | `icons/emby/` | Emby 服务图标 |
+| `icons/proxy-groups/` | 策略组图标（入口 / 服务 / 地区，含带锁版） |
 | `configs/` | 配置与转换模板（预留） |
 | `docs/` | 说明文档（预留） |
 
