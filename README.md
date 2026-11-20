@@ -41,5 +41,5 @@ https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A000-icons.json
 
 ## 更新记录
 
-- 2026-11-20 新增 `icons/Sun-Panel/`：28 枚导航页图标，文件名规范化为英文 / 拼音。
+- 2026-11-20 新增 `icons/Sun-Panel/`：28 枚导航页图标。
 - 2026-11-11 重建目录结构，规则与图标重新归档。
