@@ -1,12 +1,13 @@
 # Emby 分流规则（mihomo / OpenClash）
 # 收录公开可访问的 Emby / Jellyfin 服务域名
-# 更新时间：2026-10-07
+# 更新时间：2026-11-20
 
 # ===== 重点服务器 =====
 
 # Terminus+（终点站+）
 DOMAIN-SUFFIX,zdz.best
 DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,2026345.xyz
 
 # 蘑菇 Emby
 DOMAIN-SUFFIX,mooguu.net
