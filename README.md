@@ -11,6 +11,7 @@
 | `icons/app/` | 应用 / 面板图标 |
 | `icons/emby/` | Emby 服务图标 |
 | `icons/proxy-groups/` | 策略组图标（入口 / 服务 / 地区，含带锁版） |
+| `icons/Sun-Panel/` | Sun-Panel 导航页图标（28 枚） |
 | `configs/` | 配置与转换模板（预留） |
 | `docs/` | 说明文档（预留） |
 
@@ -40,4 +41,5 @@ https://raw.githubusercontent.com/ccyin/Clash/main/icons/airport/A000-icons.json
 
 ## 更新记录
 
+- 2026-11-20 新增 `icons/Sun-Panel/`：28 枚导航页图标，文件名规范化为英文 / 拼音。
 - 2026-11-11 重建目录结构，规则与图标重新归档。
